@@ -1,3 +1,5 @@
+https://registry.terraform.io/
+
 ```
 terraform init
 terraform plan
